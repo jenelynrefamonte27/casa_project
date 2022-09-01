@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855990032033",
+    "project_id": "emailpass-auth-cbe25",
+    "storage_bucket": "emailpass-auth-cbe25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855990032033:android:8336e83f56f5218d0482e0",
+        "android_client_info": {
+          "package_name": "com.dictr13.casa_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855990032033-39vg24l5oj26ud78qs4qrfm4uurb3oee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdIjey-W0QqGURF_LKrWOsJnMEhp88HtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855990032033-39vg24l5oj26ud78qs4qrfm4uurb3oee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
